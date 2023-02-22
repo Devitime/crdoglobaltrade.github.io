@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form{
+    background-color: aqua;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 2rem;
+
+}
+.f{
+   display: block;
+   text-align: center; 
+}
+.b{
+    display: block;
+    justify-items: center;
+}
+.n{
+    display: block;
+    text-align: center; 
+ }
+ .e{
+    display: block;
+    text-align: center; 
+ }
